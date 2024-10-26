@@ -1,0 +1,14 @@
+/Users/hamletmihranyan/Documents/online/c#/Lesson/bin/Debug/net8.0/Lesson
+/Users/hamletmihranyan/Documents/online/c#/Lesson/bin/Debug/net8.0/Lesson.deps.json
+/Users/hamletmihranyan/Documents/online/c#/Lesson/bin/Debug/net8.0/Lesson.runtimeconfig.json
+/Users/hamletmihranyan/Documents/online/c#/Lesson/bin/Debug/net8.0/Lesson.dll
+/Users/hamletmihranyan/Documents/online/c#/Lesson/bin/Debug/net8.0/Lesson.pdb
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.AssemblyInfoInputs.cache
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.AssemblyInfo.cs
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.csproj.CoreCompileInputs.cache
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.dll
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/refint/Lesson.dll
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.pdb
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/Lesson.genruntimeconfig.cache
+/Users/hamletmihranyan/Documents/online/c#/Lesson/obj/Debug/net8.0/ref/Lesson.dll
